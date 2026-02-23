@@ -1,16 +1,71 @@
-## Hi there 👋
+# 👋 Bonjour, je suis Adébola FONTON
 
-<!--
-**peacemarek/peacemarek** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+🎓 Étudiant en Science des Données  
+📍 Basé en France | Master en Télécommunications & Réseaux  
+🔎 Spécialisation : Data Science, Business Intelligence   
 
-Here are some ideas to get you started:
+Passionné par la donnée et son exploitation stratégique, je conçois des architectures décisionnelles, automatise des pipelines ETL pour transformer les données en leviers de performance.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+En parallèle, je développe une activité dans le mannequinat, alliant rigueur analytique et créativité.
+
+---
+
+## 🚀 Projets
+
+### 🧩 TP-FastAPI  
+API backend développée avec **FastAPI** permettant la gestion de ressources (CRUD, authentification).  
+
+### 📊 Data Warehouse – ETL & Business Intelligence  
+Conception et implémentation d’un **Data Warehouse** sous PostgreSQL :  
+- Modélisation en schéma en étoile  
+- Développement de flux ETL avec Talend  
+- Création de KPI décisionnels (Finance & Logistique)  
+- Restitution via Excel / BI  
+
+---
+
+## 🛠 Compétences Techniques
+
+### 📌 Data & Engineering
+- SQL avancé  
+- PostgreSQL  
+- Modélisation dimensionnelle (Schéma en étoile)  
+- ETL (Talend)  
+- Power BI  
+- Excel avancé  
+
+### 💻 Développement
+- FastAPI  
+- HTML & CSS  
+- Git / GitHub  
+- Docker  
+
+### 📊 Analyse & Statistiques
+- Jupyter Notebook
+- RStudio  
+
+---
+
+## 🎯 Objectif Professionnel
+
+Me positionner comme **Data Engineer / BI Developer**, avec une spécialisation progressive en **Prompt Engineering**, afin de concevoir des systèmes intelligents et exploitables à forte valeur ajoutée.
+
+---
+
+## 🌟 Projet personnel – Mannequinat
+
+Je développe également un projet dans le mannequinat, reflet de ma discipline et de ma capacité à évoluer dans des environnements exigeants :
+
+🔗 Portfolio :  
+https://adebola-fonton-model-kgje.vercel.app/polas
+
+---
+
+## 📫 Contact
+
+📞 +33 7 80 73 87 82  
+📧 peaceadebolaf@gmail.com  
+🔗 LinkedIn :  
+https://www.linkedin.com/in/ad%C3%A9bola-fonton-584930213/
+
+---
